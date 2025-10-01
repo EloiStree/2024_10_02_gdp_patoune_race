@@ -1,2 +1,2 @@
-# 2024_10_02_gdp_patoune_race
+# Patoune Race
 Just the JDG Lion King Patoune for the fun of the troll.
