@@ -1,4 +1,4 @@
-[gd_scene load_steps=8 format=3 uid="uid://bgo33w1v42jeo"]
+[gd_scene format=3 uid="uid://bgo33w1v42jeo"]
 
 [ext_resource type="Script" uid="uid://cryvf2my7vfi5" path="res://addons/2024_10_02_gdp_patoune_race/script/gpt_patoune_destroyer.gd" id="1_ga5kx"]
 [ext_resource type="ArrayMesh" uid="uid://cwsvgqqv23c1" path="res://addons/2024_10_02_gdp_patoune_race/3D/PatouneLowPoly.obj" id="1_gbwu7"]
